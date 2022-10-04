@@ -286,6 +286,7 @@ hr {
   }
   .intro, .list {
     min-height: 0;
+    padding: 25px 15px;
   }
   .bood:after {
     content: "(see list on below)";
