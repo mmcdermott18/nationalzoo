@@ -286,7 +286,7 @@ hr {
   }
   .intro, .list {
     min-height: 0;
-    padding: 25px 15px;
+    padding: 25px 25px;
   }
   .bood:after {
     content: "(see list on below)";
@@ -294,6 +294,15 @@ hr {
   h2 {
     font-size: 6rem;
     margin-top: 0;
+  }
+}
+@media only screen and (max-width: 400px) {
+  /* Style adjustments for viewports that meet the condition */
+  .intro, .list {
+    padding: 25px 15px;
+  }
+  h2 {
+    font-size: 5rem;
   }
 }
 
