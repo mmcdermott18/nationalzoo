@@ -188,7 +188,7 @@ hr {
   border-radius: 2.5px;
 }
 .bood:after {
-  content: "(see list on left)";
+  content: "(see list on right)";
 }
 
 /* ==========================================================================
