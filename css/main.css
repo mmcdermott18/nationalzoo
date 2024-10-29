@@ -130,6 +130,9 @@ p, li {
   margin: 0;
   font-size: 2.25rem;
 }
+.list p {
+  font-size: 1.5rem;
+}
 h1, h2, h3, h4, h5 {
   font-family: hobeaux, sans-serif;
   font-weight: 900;
