@@ -106,19 +106,19 @@ body {
 .intro {
   min-height: 100vh;
   padding: 25px 50px;
-  background-color: #252422;
-  color: #eb5e28;
+  background-color: #1C0118;
+  color: #6BD425;
 }
 .list {
   min-height: 100vh;
   padding: 25px 50px;
   background-color: #ccc5b9;
-  color: #252422;
+  color: #42113C;
 }
 p, li {
   font-family: quicksand, sans-serif;
   font-weight: 700;
-  color: #252422;
+  color: #1C0118;
   margin-top: 0;
 }
 .intro p {
@@ -152,6 +152,7 @@ ul {
 }
 li {
   font-size: 1.5rem;
+  color: #42113C;
 }
 .done {
   color: #fffcf2;
@@ -166,10 +167,10 @@ span.done::before{
   position: relative;
   right: 0;
   top: 26px;
-  border-bottom: 3px solid #eb5e28;
+  border-bottom: 3px solid #6BD425;
 }
 p i {
-  color: #eb5e28;
+  color: #6BD425;
 }
 .ghost {
   position: absolute;
@@ -192,12 +193,12 @@ p i {
   font-size: 3em;
 }
 .underline {
-  border-bottom: 10px double #eb5e28;
+  border-bottom: 10px double #6BD425;
 }
 hr {
   border: 0;
   height: 5px;
-  background: #eb5e28;
+  background: #6BD425;
   margin: 25px 0;
   padding: 0;
   border-radius: 2.5px;
@@ -206,7 +207,7 @@ hr {
   content: "(see list on right)";
 }
 .orange {
-  color: #eb5e28;
+  color: #42113C;
   text-transform: uppercase;
   font-weight: bold;
   font-size: .8em;
