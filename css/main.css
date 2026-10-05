@@ -113,7 +113,7 @@ body {
   min-height: 100vh;
   padding: 25px 50px;
   background-color: #ccc5b9;
-  color: #42113C;
+  color: #662d91;
 }
 p, li {
   font-family: quicksand, sans-serif;
@@ -152,7 +152,7 @@ ul {
 }
 li {
   font-size: 1.5rem;
-  color: #42113C;
+  color: #662d91;
 }
 .done {
   color: #fffcf2;
@@ -207,7 +207,7 @@ hr {
   content: "(see list on right)";
 }
 .orange {
-  color: #42113C;
+  color: #662d91;
   text-transform: uppercase;
   font-weight: bold;
   font-size: .8em;
